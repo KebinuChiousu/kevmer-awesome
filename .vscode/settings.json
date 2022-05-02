@@ -1,0 +1,18 @@
+{
+    "Lua.diagnostics.globals": [
+        "client",
+        "awesome",
+        "Shift",
+        "root",
+        "screen",
+        "gears",
+        "awful",
+        "wibox",
+        "beautiful",
+        "menubar",
+        "build"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-field"
+    ]
+}
